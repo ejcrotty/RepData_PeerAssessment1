@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Peer Assessment 01"
 author: "Ed Crotty"
-date: "Thursday, Jan 05, 2016"
+date: "Friday, Jan 06, 2017"
 output: 
   html_document:
     keep_md: true

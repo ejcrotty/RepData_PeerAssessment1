@@ -1,6 +1,6 @@
 # Reproducible Research Peer Assessment 01
 Ed Crotty  
-Thursday, Jan 05, 2016  
+Friday, Jan 06, 2017  
         
 
 ```
